@@ -11,8 +11,9 @@ class Solution {
                 nums[i]=1;
             }
         }
-        int n=nums.length;
-        //Arrays.sort(nums);
+        //int n=nums.length;
+        Arrays.sort(nums);
+        /*
         for(int i=0;i<n-1;i++)
         {
             for(int j=0;j<n-i-1;j++)
@@ -24,7 +25,7 @@ class Solution {
                     nums[j+1]=temp;
                 }
             }
-        }
+        }*/
         return nums;
     }
 }
