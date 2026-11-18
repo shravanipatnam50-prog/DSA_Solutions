@@ -8,8 +8,8 @@
 Array, Two Pointers, Greedy, Sorting, Timsort
 
 ### 🚀 Performance
-- **Runtime:** 20 ms
-- **Memory:** 56.2 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
