@@ -8,7 +8,7 @@
 Array, String, Simulation
 
 ### 🚀 Performance
-- **Runtime:** 69 ms
+- **Runtime:** 1 ms
 - **Memory:** 43.9 MB
 
 ---
