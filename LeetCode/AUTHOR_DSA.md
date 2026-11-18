@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 5 / 238 (2.1%)
+- **Completed:** 6 / 238 (2.5%)
 
 ---
 
@@ -58,7 +58,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] N-th Digit
 - [ ] Reach Target Score
 - [ ] Rectangle Area
-- [ ] Minimum Operations to Make Array Equal
+- [x] [Minimum Operations to Make Array Equal](./Java/Medium/1674. Minimum Operations to Make Array Equal/)
 - [ ] s Three-Square Theorem
 
 ### 📂 MODULE  2.9: ADVANCED THINKING & PUZZLE
