@@ -8,8 +8,8 @@
 Array, String, Greedy, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 44.8 MB
 
 ---
 
