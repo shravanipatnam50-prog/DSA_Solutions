@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 10 / 238 (4.2%)
+- **Completed:** 11 / 238 (4.6%)
 
 ---
 
@@ -240,7 +240,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Sort Vowels in a String
 - [ ] GCD of Strings
 - [ ] Validate IP Address
-- [ ] Largest Number
+- [x] [Largest Number](./Java/Medium/179. Largest Number/)
 - [ ] Decode String
 - [ ] Maximum Product of Word Lengths
 - [ ] Flip Bit
