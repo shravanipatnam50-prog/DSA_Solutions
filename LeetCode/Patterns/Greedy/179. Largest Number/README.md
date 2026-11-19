@@ -1,6 +1,6 @@
 # 📝 179. Largest Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/largest-number/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/largest-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -19,7 +19,7 @@ Given a list of non-negative integers  `nums` , arrange them such that they form
 
 Since the result may be very large, so you need to return a string instead of an integer.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [10,2]
