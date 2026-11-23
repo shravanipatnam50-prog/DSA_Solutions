@@ -1,6 +1,6 @@
 # 📝 680. Valid Palindrome II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii/?envType=problem-list-v2&envId=string)
+🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -17,7 +17,7 @@ Two Pointers, String, Greedy
 
 Given a string  `s` , return  `true`   *if the*  `s`  *can be palindrome after deleting  **at most one**  character from it* .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "aba"
