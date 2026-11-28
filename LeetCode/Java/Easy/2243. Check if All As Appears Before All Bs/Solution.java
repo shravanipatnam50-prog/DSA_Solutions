@@ -1,5 +1,10 @@
 class Solution {
-    public boolean checkString(String s) {
-        return !(s.contains("ba"));
+    public boolean checkString(String s) 
+    {
+        if(s.contains("ba")) 
+        {
+            return false;
+        }
+        return true;
     }
 }
